@@ -12,7 +12,7 @@ Somar dois números e exibir o resultado na tela.
 HTML, CSS e JavaScript.
 
 ## Inicialização
-Após um ```git clone ``` basta abrir o arquivo index.html.
+Após um ```git clone``` basta abrir o arquivo index.html.
 
 ## Implementações futuras
 No momento não há implementações futuras.
