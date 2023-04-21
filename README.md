@@ -1,4 +1,4 @@
-# calculadora-simples
+# Calculadora-simples
 
 ## Descrição do projeto
 Calculadora com dois inputs e botões para operações      básicas (somar, subtrair, multiplicar e dividir).
